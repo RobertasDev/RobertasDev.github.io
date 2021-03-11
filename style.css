@@ -1,0 +1,7 @@
+
+.grid {
+  width: 400px;
+  height: 516px;
+  border: solid black 5px;
+  box-shadow: rgba(15, 151, 74, 0.534) 10px 10px 10px 10px;
+}
